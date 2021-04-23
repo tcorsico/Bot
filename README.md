@@ -1,4 +1,6 @@
 # Crux-Bot
+## Introduccion
+Asistente para la red social de Facebook.
 TP ALGORITMOS
 Esta es nuestra version de BOT CRUX, para FACEBOOK.
 El bot de libreria CHATTERBOT se encarga mediante una lista de entrenamiento, que se cargara en el programa,
