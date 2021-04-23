@@ -1,4 +1,4 @@
-# TP2-Algoritmos
+# Crux-Bot
 TP ALGORITMOS
 Esta es nuestra version de BOT CRUX, para FACEBOOK.
 El bot de libreria CHATTERBOT se encarga mediante una lista de entrenamiento, que se cargara en el programa,
