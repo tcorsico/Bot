@@ -1,9 +1,16 @@
 # Crux-Bot
-## Introduccion
+## Introducción
 Asistente para la red social de Facebook.
-TP ALGORITMOS
-Esta es nuestra version de BOT CRUX, para FACEBOOK.
-El bot de libreria CHATTERBOT se encarga mediante una lista de entrenamiento, que se cargara en el programa,
-del correcto funcionamiento del programa, mediante PALABRAS CLAVE se ingresara a sus distintas funciones y tambien
-solicitara datos al usuario en caso de requerirlos. Todo esto se guaradara en un LOG junto con la hora y fecha de 
-la sesion. 
+El Bot `crux` tiene disponible acciones como:
+* Dar **likes** a posteos 
+* Leer posteos
+* Subir posteos y fotos
+* Actualizar un posteo
+* Ver cantidad de seguidores
+* Seguir a un usuario/o solicitar amistad
+* Actualizar datos del perfil
+
+## Librerías utilizadas
+`python-facebook`: https://python-facebook-api.readthedocs.io/en/latest/
+
+`ChatterBot`: https://chatterbot.readthedocs.io/en/stable/index.html
