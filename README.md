@@ -1,7 +1,7 @@
 # Crux-Bot
 ## Introducción
 Asistente para la red social de Facebook.
-El Bot `crux` tiene disponible acciones como:
+El Bot `crux` cuenta con acciones tales como:
 * Dar **likes** a posteos 
 * Leer posteos
 * Subir posteos y fotos
